@@ -11,6 +11,7 @@ public class HelloApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         System.out.println(123);
+        System.out.println(321);
     }
 
     public static void main(String[] args) {
