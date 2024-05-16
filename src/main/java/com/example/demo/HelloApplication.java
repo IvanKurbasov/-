@@ -12,6 +12,7 @@ public class HelloApplication extends Application {
     public void start(Stage stage) throws IOException {
         System.out.println(123);
         System.out.println(321);
+        System.out.println(4535345);
     }
 
     public static void main(String[] args) {
